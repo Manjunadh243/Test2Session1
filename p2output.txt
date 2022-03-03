@@ -1,1 +1,11 @@
+ gcc -g p2original.c
+ ./a.out
+Enter the points :
+3
+2
+1
+2
+3
+6
+the points will form triangle 
 
