@@ -1,1 +1,5 @@
+ gcc -g p4original.c
+ ./a.out
+enter any number8
+the 8 is the term fibonaci series is 13 
 
